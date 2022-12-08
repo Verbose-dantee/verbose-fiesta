@@ -1,0 +1,14 @@
+// CLD - Common Library Declaration of mine in 1st year of an UIT student using in C++ language!
+
+#include <cmath>
+#include <string>
+#include <stack>
+#include <queue>
+#include <vector>
+#include <algorithm>
+#include <iomanip>
+#include <iostream>
+#pragma once 
+using namespace std;
+
+#define MAX 100
